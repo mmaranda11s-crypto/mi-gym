@@ -1,0 +1,18 @@
+{
+  "name": "Mi Gym",
+  "short_name": "Mi Gym",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1014",
+  "theme_color": "#0e1014",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230e1014'/><text x='50' y='68' text-anchor='middle' font-size='56'>🏋️</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
